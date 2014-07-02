@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="act:adlnet.gov/CastleDefense" type="course">
+			<name>xAPI Castle Defense </name>
+			<description lang="en-US">A game of math facts</description>
+			<launch lang="en-us">index.html</launch>
+		</activity>
+	</activities>
+</tincan>

@@ -47,7 +47,7 @@
 	table {
 padding: 2px;
 font-size: 16px;
-background-color: #0B0B3B;
+background-color: #FFFFFF;
 background-repeat: repeat-x;
 color: #FFFFFF;
 border-right-width: 1px;

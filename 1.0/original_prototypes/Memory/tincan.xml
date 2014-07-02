@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="act:adlnet.gov/Memory" type="course">
+			<name>xAPI Memory game </name>
+			<description lang="en-US">A game of Memory</description>
+			<launch lang="en-us">index.html</launch>
+		</activity>
+	</activities>
+</tincan>

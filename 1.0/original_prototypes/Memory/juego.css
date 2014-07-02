@@ -1,0 +1,33 @@
+
+mifuente {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: xx-large;
+	font-style: normal;
+	color: #FF6600;
+	font-weight: normal;
+	font-variant: normal;
+
+}
+fuentenivel {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: xx-large;
+	font-style: normal;
+	color: #FF6600;
+	font-weight: normal;
+	font-variant: normal;
+
+}
+#container {
+
+width: 700px;
+height:700px;
+
+}
+BODY {
+
+	text-align: center;
+	background-image: url(background.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}

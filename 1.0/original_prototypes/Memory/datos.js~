@@ -1,0 +1,18 @@
+var actorName;
+var actorEmail;
+
+function clickJugar(){
+		if ($('#tc_nameInput').val() == "" || $('#tc_emailInput').val() == ""){
+			alert("Please enter a name and an email.");
+			return;
+		} else {
+			actorName = $('#tc_nameInput').val();
+			actorEmail = $('#tc_emailInput').val();
+			window.location="juego.html?variable=actorName";
+			//document.getElementById('prueba').href="juego.html";
+			
+		}
+		
+}
+
+
